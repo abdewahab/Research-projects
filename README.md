@@ -1,4 +1,4 @@
-# Research-projects
+# Sales_Data_Analysis
 
 Case Study: Conglomerate Inc operates multiple brands under its umbrella that ranges from servicing Baby, Food & Beverages and Electronics items. 
 They are looking to run promotional campaigns on Amazon and want to understand the effect of price elasticity for their categories. 
